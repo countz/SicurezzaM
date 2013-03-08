@@ -5,7 +5,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 
-public class Digest {
+public class SHA2 {
 
 	/**
 	 * @param args
