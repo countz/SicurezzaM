@@ -44,7 +44,7 @@ public class SHA2 {
 						sb.append(String.format("%02X ", b));
 					}
 					System.out.println("File name: " +filename);
-					System.out.println("Digest SHA-256: " +sb.toString());
+					System.out.println("Digest " +algorithm +": " +sb.toString());
 				}
 
 				else
