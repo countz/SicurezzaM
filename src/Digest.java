@@ -53,8 +53,6 @@ public class Digest {
 					System.exit(0);
 				}
 
-
-
 			}
 			else
 			{
